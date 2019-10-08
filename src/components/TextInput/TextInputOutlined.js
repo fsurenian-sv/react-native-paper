@@ -14,9 +14,14 @@ import type { ChildTextInputProps, RenderProps } from './types';
 
 const AnimatedText = Animated.createAnimatedComponent(Text);
 
+const scale = Dimensions.get('window').width / 960;
+
+export const normalizePixelDensity = (size: number) =>
+  Math.round(PixelRatio.roundToNearestPixel(size * scale)) - 2;
+
 const OUTLINE_MINIMIZED_LABEL_Y_OFFSET = -29;
-const MAXIMIZED_LABEL_FONT_SIZE = 16;
-const MINIMIZED_LABEL_FONT_SIZE = 12;
+const MAXIMIZED_LABEL_FONT_SIZE = normalizePixelDensity(17);
+const MINIMIZED_LABEL_FONT_SIZE = normalizePixelDensity(15);
 const LABEL_WIGGLE_X_OFFSET = 4;
 const LABEL_PADDING_HORIZONTAL = 12;
 const RANDOM_VALUE_TO_CENTER_LABEL = 4; // Don't know why 4, but it works
