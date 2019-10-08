@@ -7,6 +7,8 @@ import {
   TextInput as NativeTextInput,
   StyleSheet,
   I18nManager,
+  Dimensions,
+  PixelRatio,
 } from 'react-native';
 import color from 'color';
 import Text from '../Typography/Text';
@@ -16,7 +18,7 @@ const AnimatedText = Animated.createAnimatedComponent(Text);
 
 const scale = Dimensions.get('window').width / 960;
 
-export const normalizePixelDensity = (size: number) =>
+export const normalizePixelDensity = size =>
   Math.round(PixelRatio.roundToNearestPixel(size * scale)) - 2;
 
 const OUTLINE_MINIMIZED_LABEL_Y_OFFSET = -29;
