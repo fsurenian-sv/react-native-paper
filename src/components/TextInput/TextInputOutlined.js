@@ -289,7 +289,7 @@ const styles = StyleSheet.create({
   placeholder: {
     position: 'absolute',
     left: 0,
-    fontSize: 16,
+    fontSize: normalizePixelDensity(16),
     paddingHorizontal: LABEL_PADDING_HORIZONTAL,
   },
   placeholderOutlined: {
@@ -312,7 +312,7 @@ const styles = StyleSheet.create({
   input: {
     flexGrow: 1,
     paddingHorizontal: 12,
-    fontSize: 16,
+    fontSize: normalizePixelDensity(16),
     margin: 0,
     minHeight: 58,
     textAlign: I18nManager.isRTL ? 'right' : 'left',
