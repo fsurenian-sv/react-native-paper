@@ -1,6 +1,8 @@
+/* @flow */
+
 import * as React from 'react';
 import renderer from 'react-test-renderer';
-import Caption from '../../Typography/Caption.tsx';
+import Caption from '../../Typography/Caption';
 
 it('renders caption with children as content', () => {
   const tree = renderer.create(<Caption>Caption content</Caption>).toJSON();

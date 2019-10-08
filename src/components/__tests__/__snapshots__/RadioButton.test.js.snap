@@ -3,7 +3,6 @@
 exports[`RadioButton on default platform renders properly 1`] = `
 <View
   accessibilityRole="button"
-  accessibilityStates={Array []}
   accessible={true}
   isTVSelectable={true}
   onResponderGrant={[Function]}
@@ -41,7 +40,6 @@ exports[`RadioButton on default platform renders properly 1`] = `
 exports[`RadioButton on ios platform renders properly 1`] = `
 <View
   accessibilityRole="button"
-  accessibilityStates={Array []}
   accessible={true}
   isTVSelectable={true}
   onResponderGrant={[Function]}
@@ -93,7 +91,7 @@ exports[`RadioButton on ios platform renders properly 1`] = `
             },
           ],
           Object {
-            "fontFamily": "Material Design Icons",
+            "fontFamily": "Material Icons",
             "fontStyle": "normal",
             "fontWeight": "normal",
           },
@@ -101,7 +99,7 @@ exports[`RadioButton on ios platform renders properly 1`] = `
         ]
       }
     >
-      
+      
     </Text>
   </View>
 </View>
@@ -110,7 +108,6 @@ exports[`RadioButton on ios platform renders properly 1`] = `
 exports[`RadioButton when RadioButton is wrapped by RadioButtonContext.Provider renders properly 1`] = `
 <View
   accessibilityRole="button"
-  accessibilityStates={Array []}
   accessible={true}
   isTVSelectable={true}
   onResponderGrant={[Function]}
@@ -162,7 +159,7 @@ exports[`RadioButton when RadioButton is wrapped by RadioButtonContext.Provider 
             },
           ],
           Object {
-            "fontFamily": "Material Design Icons",
+            "fontFamily": "Material Icons",
             "fontStyle": "normal",
             "fontWeight": "normal",
           },
@@ -170,7 +167,7 @@ exports[`RadioButton when RadioButton is wrapped by RadioButtonContext.Provider 
         ]
       }
     >
-      
+      
     </Text>
   </View>
 </View>

@@ -32,13 +32,11 @@ exports[`renders disabled icon button 1`] = `
       Array [
         Object {
           "alignItems": "center",
-          "justifyContent": "center",
-          "margin": 6,
-          "overflow": "hidden",
-        },
-        Object {
           "borderRadius": 18,
           "height": 36,
+          "justifyContent": "center",
+          "margin": 6,
+          "overflow": "visible",
           "width": 36,
         },
         Object {
@@ -76,7 +74,7 @@ exports[`renders disabled icon button 1`] = `
             },
           ],
           Object {
-            "fontFamily": "Material Design Icons",
+            "fontFamily": "Material Icons",
             "fontStyle": "normal",
             "fontWeight": "normal",
           },
@@ -84,7 +82,7 @@ exports[`renders disabled icon button 1`] = `
         ]
       }
     >
-      
+      
     </Text>
   </View>
 </View>
@@ -93,7 +91,6 @@ exports[`renders disabled icon button 1`] = `
 exports[`renders icon button by default 1`] = `
 <View
   accessibilityRole="button"
-  accessibilityStates={Array []}
   accessible={true}
   hitSlop={
     Object {
@@ -118,13 +115,11 @@ exports[`renders icon button by default 1`] = `
       Array [
         Object {
           "alignItems": "center",
-          "justifyContent": "center",
-          "margin": 6,
-          "overflow": "hidden",
-        },
-        Object {
           "borderRadius": 18,
           "height": 36,
+          "justifyContent": "center",
+          "margin": 6,
+          "overflow": "visible",
           "width": 36,
         },
         undefined,
@@ -160,7 +155,7 @@ exports[`renders icon button by default 1`] = `
             },
           ],
           Object {
-            "fontFamily": "Material Design Icons",
+            "fontFamily": "Material Icons",
             "fontStyle": "normal",
             "fontWeight": "normal",
           },
@@ -168,7 +163,7 @@ exports[`renders icon button by default 1`] = `
         ]
       }
     >
-      
+      
     </Text>
   </View>
 </View>
@@ -177,7 +172,6 @@ exports[`renders icon button by default 1`] = `
 exports[`renders icon button with color 1`] = `
 <View
   accessibilityRole="button"
-  accessibilityStates={Array []}
   accessible={true}
   hitSlop={
     Object {
@@ -202,13 +196,11 @@ exports[`renders icon button with color 1`] = `
       Array [
         Object {
           "alignItems": "center",
-          "justifyContent": "center",
-          "margin": 6,
-          "overflow": "hidden",
-        },
-        Object {
           "borderRadius": 18,
           "height": 36,
+          "justifyContent": "center",
+          "margin": 6,
+          "overflow": "visible",
           "width": 36,
         },
         undefined,
@@ -244,7 +236,7 @@ exports[`renders icon button with color 1`] = `
             },
           ],
           Object {
-            "fontFamily": "Material Design Icons",
+            "fontFamily": "Material Icons",
             "fontStyle": "normal",
             "fontWeight": "normal",
           },
@@ -252,7 +244,7 @@ exports[`renders icon button with color 1`] = `
         ]
       }
     >
-      
+      
     </Text>
   </View>
 </View>
@@ -261,7 +253,6 @@ exports[`renders icon button with color 1`] = `
 exports[`renders icon button with size 1`] = `
 <View
   accessibilityRole="button"
-  accessibilityStates={Array []}
   accessible={true}
   hitSlop={
     Object {
@@ -286,14 +277,12 @@ exports[`renders icon button with size 1`] = `
       Array [
         Object {
           "alignItems": "center",
+          "borderRadius": 18,
+          "height": 36,
           "justifyContent": "center",
           "margin": 6,
-          "overflow": "hidden",
-        },
-        Object {
-          "borderRadius": 22.5,
-          "height": 45,
-          "width": 45,
+          "overflow": "visible",
+          "width": 36,
         },
         undefined,
         undefined,
@@ -328,7 +317,7 @@ exports[`renders icon button with size 1`] = `
             },
           ],
           Object {
-            "fontFamily": "Material Design Icons",
+            "fontFamily": "Material Icons",
             "fontStyle": "normal",
             "fontWeight": "normal",
           },
@@ -336,7 +325,7 @@ exports[`renders icon button with size 1`] = `
         ]
       }
     >
-      
+      
     </Text>
   </View>
 </View>
@@ -345,7 +334,6 @@ exports[`renders icon button with size 1`] = `
 exports[`renders icon change animated 1`] = `
 <View
   accessibilityRole="button"
-  accessibilityStates={Array []}
   accessible={true}
   hitSlop={
     Object {
@@ -370,13 +358,11 @@ exports[`renders icon change animated 1`] = `
       Array [
         Object {
           "alignItems": "center",
-          "justifyContent": "center",
-          "margin": 6,
-          "overflow": "hidden",
-        },
-        Object {
           "borderRadius": 18,
           "height": 36,
+          "justifyContent": "center",
+          "margin": 6,
+          "overflow": "visible",
           "width": 36,
         },
         undefined,
@@ -443,7 +429,7 @@ exports[`renders icon change animated 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -451,7 +437,7 @@ exports[`renders icon change animated 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
     </View>

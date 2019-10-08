@@ -12,9 +12,6 @@ exports[`renders list section with custom title style 1`] = `
   }
   theme={
     Object {
-      "animation": Object {
-        "scale": 1,
-      },
       "colors": Object {
         "accent": "#03dac4",
         "backdrop": "rgba(0, 0, 0, 0.5)",
@@ -22,8 +19,6 @@ exports[`renders list section with custom title style 1`] = `
         "disabled": "rgba(0, 0, 0, 0.26)",
         "error": "#B00020",
         "notification": "#f50057",
-        "onBackground": "#000000",
-        "onSurface": "#000000",
         "placeholder": "rgba(0, 0, 0, 0.54)",
         "primary": "#6200ee",
         "surface": "#ffffff",
@@ -31,22 +26,10 @@ exports[`renders list section with custom title style 1`] = `
       },
       "dark": false,
       "fonts": Object {
-        "light": Object {
-          "fontFamily": "System",
-          "fontWeight": "300",
-        },
-        "medium": Object {
-          "fontFamily": "System",
-          "fontWeight": "500",
-        },
-        "regular": Object {
-          "fontFamily": "System",
-          "fontWeight": "400",
-        },
-        "thin": Object {
-          "fontFamily": "System",
-          "fontWeight": "100",
-        },
+        "light": "HelveticaNeue-Light",
+        "medium": "HelveticaNeue-Medium",
+        "regular": "Helvetica Neue",
+        "thin": "HelveticaNeue-Thin",
       },
       "roundness": 4,
     }
@@ -58,9 +41,9 @@ exports[`renders list section with custom title style 1`] = `
       Array [
         Object {
           "color": "#000000",
-          "fontFamily": "System",
-          "fontWeight": "400",
+          "fontFamily": "Helvetica Neue",
           "textAlign": "left",
+          "writingDirection": "ltr",
         },
         Array [
           Object {
@@ -69,8 +52,7 @@ exports[`renders list section with custom title style 1`] = `
           },
           Object {
             "color": "rgba(0, 0, 0, 0.54)",
-            "fontFamily": "System",
-            "fontWeight": "500",
+            "fontFamily": "HelveticaNeue-Medium",
           },
           Object {
             "color": "red",
@@ -120,11 +102,7 @@ exports[`renders list section with custom title style 1`] = `
               "margin": 8,
               "width": 40,
             },
-            Object {
-              "marginLeft": 0,
-              "marginRight": 16,
-              "marginVertical": 0,
-            },
+            undefined,
           ]
         }
       >
@@ -152,7 +130,7 @@ exports[`renders list section with custom title style 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -160,7 +138,7 @@ exports[`renders list section with custom title style 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
       <View
@@ -168,8 +146,7 @@ exports[`renders list section with custom title style 1`] = `
         style={
           Array [
             Object {
-              "marginVertical": 6,
-              "paddingLeft": 8,
+              "margin": 8,
             },
             Object {
               "flex": 1,
@@ -184,9 +161,9 @@ exports[`renders list section with custom title style 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "System",
-                "fontWeight": "400",
+                "fontFamily": "Helvetica Neue",
                 "textAlign": "left",
+                "writingDirection": "ltr",
               },
               Array [
                 Object {
@@ -244,11 +221,7 @@ exports[`renders list section with custom title style 1`] = `
               "margin": 8,
               "width": 40,
             },
-            Object {
-              "marginLeft": 0,
-              "marginRight": 16,
-              "marginVertical": 0,
-            },
+            undefined,
           ]
         }
       >
@@ -276,7 +249,7 @@ exports[`renders list section with custom title style 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -284,7 +257,7 @@ exports[`renders list section with custom title style 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
       <View
@@ -292,8 +265,7 @@ exports[`renders list section with custom title style 1`] = `
         style={
           Array [
             Object {
-              "marginVertical": 6,
-              "paddingLeft": 8,
+              "margin": 8,
             },
             Object {
               "flex": 1,
@@ -308,9 +280,9 @@ exports[`renders list section with custom title style 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "System",
-                "fontWeight": "400",
+                "fontFamily": "Helvetica Neue",
                 "textAlign": "left",
+                "writingDirection": "ltr",
               },
               Array [
                 Object {
@@ -344,9 +316,6 @@ exports[`renders list section with subheader 1`] = `
   }
   theme={
     Object {
-      "animation": Object {
-        "scale": 1,
-      },
       "colors": Object {
         "accent": "#03dac4",
         "backdrop": "rgba(0, 0, 0, 0.5)",
@@ -354,8 +323,6 @@ exports[`renders list section with subheader 1`] = `
         "disabled": "rgba(0, 0, 0, 0.26)",
         "error": "#B00020",
         "notification": "#f50057",
-        "onBackground": "#000000",
-        "onSurface": "#000000",
         "placeholder": "rgba(0, 0, 0, 0.54)",
         "primary": "#6200ee",
         "surface": "#ffffff",
@@ -363,22 +330,10 @@ exports[`renders list section with subheader 1`] = `
       },
       "dark": false,
       "fonts": Object {
-        "light": Object {
-          "fontFamily": "System",
-          "fontWeight": "300",
-        },
-        "medium": Object {
-          "fontFamily": "System",
-          "fontWeight": "500",
-        },
-        "regular": Object {
-          "fontFamily": "System",
-          "fontWeight": "400",
-        },
-        "thin": Object {
-          "fontFamily": "System",
-          "fontWeight": "100",
-        },
+        "light": "HelveticaNeue-Light",
+        "medium": "HelveticaNeue-Medium",
+        "regular": "Helvetica Neue",
+        "thin": "HelveticaNeue-Thin",
       },
       "roundness": 4,
     }
@@ -390,9 +345,9 @@ exports[`renders list section with subheader 1`] = `
       Array [
         Object {
           "color": "#000000",
-          "fontFamily": "System",
-          "fontWeight": "400",
+          "fontFamily": "Helvetica Neue",
           "textAlign": "left",
+          "writingDirection": "ltr",
         },
         Array [
           Object {
@@ -401,8 +356,7 @@ exports[`renders list section with subheader 1`] = `
           },
           Object {
             "color": "rgba(0, 0, 0, 0.54)",
-            "fontFamily": "System",
-            "fontWeight": "500",
+            "fontFamily": "HelveticaNeue-Medium",
           },
           undefined,
         ],
@@ -450,11 +404,7 @@ exports[`renders list section with subheader 1`] = `
               "margin": 8,
               "width": 40,
             },
-            Object {
-              "marginLeft": 0,
-              "marginRight": 16,
-              "marginVertical": 0,
-            },
+            undefined,
           ]
         }
       >
@@ -482,7 +432,7 @@ exports[`renders list section with subheader 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -490,7 +440,7 @@ exports[`renders list section with subheader 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
       <View
@@ -498,8 +448,7 @@ exports[`renders list section with subheader 1`] = `
         style={
           Array [
             Object {
-              "marginVertical": 6,
-              "paddingLeft": 8,
+              "margin": 8,
             },
             Object {
               "flex": 1,
@@ -514,9 +463,9 @@ exports[`renders list section with subheader 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "System",
-                "fontWeight": "400",
+                "fontFamily": "Helvetica Neue",
                 "textAlign": "left",
+                "writingDirection": "ltr",
               },
               Array [
                 Object {
@@ -574,11 +523,7 @@ exports[`renders list section with subheader 1`] = `
               "margin": 8,
               "width": 40,
             },
-            Object {
-              "marginLeft": 0,
-              "marginRight": 16,
-              "marginVertical": 0,
-            },
+            undefined,
           ]
         }
       >
@@ -606,7 +551,7 @@ exports[`renders list section with subheader 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -614,7 +559,7 @@ exports[`renders list section with subheader 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
       <View
@@ -622,8 +567,7 @@ exports[`renders list section with subheader 1`] = `
         style={
           Array [
             Object {
-              "marginVertical": 6,
-              "paddingLeft": 8,
+              "margin": 8,
             },
             Object {
               "flex": 1,
@@ -638,9 +582,9 @@ exports[`renders list section with subheader 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "System",
-                "fontWeight": "400",
+                "fontFamily": "Helvetica Neue",
                 "textAlign": "left",
+                "writingDirection": "ltr",
               },
               Array [
                 Object {
@@ -674,9 +618,6 @@ exports[`renders list section without subheader 1`] = `
   }
   theme={
     Object {
-      "animation": Object {
-        "scale": 1,
-      },
       "colors": Object {
         "accent": "#03dac4",
         "backdrop": "rgba(0, 0, 0, 0.5)",
@@ -684,8 +625,6 @@ exports[`renders list section without subheader 1`] = `
         "disabled": "rgba(0, 0, 0, 0.26)",
         "error": "#B00020",
         "notification": "#f50057",
-        "onBackground": "#000000",
-        "onSurface": "#000000",
         "placeholder": "rgba(0, 0, 0, 0.54)",
         "primary": "#6200ee",
         "surface": "#ffffff",
@@ -693,22 +632,10 @@ exports[`renders list section without subheader 1`] = `
       },
       "dark": false,
       "fonts": Object {
-        "light": Object {
-          "fontFamily": "System",
-          "fontWeight": "300",
-        },
-        "medium": Object {
-          "fontFamily": "System",
-          "fontWeight": "500",
-        },
-        "regular": Object {
-          "fontFamily": "System",
-          "fontWeight": "400",
-        },
-        "thin": Object {
-          "fontFamily": "System",
-          "fontWeight": "100",
-        },
+        "light": "HelveticaNeue-Light",
+        "medium": "HelveticaNeue-Medium",
+        "regular": "Helvetica Neue",
+        "thin": "HelveticaNeue-Thin",
       },
       "roundness": 4,
     }
@@ -753,11 +680,7 @@ exports[`renders list section without subheader 1`] = `
               "margin": 8,
               "width": 40,
             },
-            Object {
-              "marginLeft": 0,
-              "marginRight": 16,
-              "marginVertical": 0,
-            },
+            undefined,
           ]
         }
       >
@@ -785,7 +708,7 @@ exports[`renders list section without subheader 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -793,7 +716,7 @@ exports[`renders list section without subheader 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
       <View
@@ -801,8 +724,7 @@ exports[`renders list section without subheader 1`] = `
         style={
           Array [
             Object {
-              "marginVertical": 6,
-              "paddingLeft": 8,
+              "margin": 8,
             },
             Object {
               "flex": 1,
@@ -817,9 +739,9 @@ exports[`renders list section without subheader 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "System",
-                "fontWeight": "400",
+                "fontFamily": "Helvetica Neue",
                 "textAlign": "left",
+                "writingDirection": "ltr",
               },
               Array [
                 Object {
@@ -877,11 +799,7 @@ exports[`renders list section without subheader 1`] = `
               "margin": 8,
               "width": 40,
             },
-            Object {
-              "marginLeft": 0,
-              "marginRight": 16,
-              "marginVertical": 0,
-            },
+            undefined,
           ]
         }
       >
@@ -909,7 +827,7 @@ exports[`renders list section without subheader 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -917,7 +835,7 @@ exports[`renders list section without subheader 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
       <View
@@ -925,8 +843,7 @@ exports[`renders list section without subheader 1`] = `
         style={
           Array [
             Object {
-              "marginVertical": 6,
-              "paddingLeft": 8,
+              "margin": 8,
             },
             Object {
               "flex": 1,
@@ -941,9 +858,9 @@ exports[`renders list section without subheader 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "System",
-                "fontWeight": "400",
+                "fontFamily": "Helvetica Neue",
                 "textAlign": "left",
+                "writingDirection": "ltr",
               },
               Array [
                 Object {

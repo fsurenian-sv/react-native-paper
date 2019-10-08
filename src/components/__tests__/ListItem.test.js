@@ -1,8 +1,10 @@
+/* @flow */
+
 import * as React from 'react';
 import renderer from 'react-test-renderer';
 import { Text, View } from 'react-native';
-import ListItem from '../List/ListItem.tsx';
-import ListIcon from '../List/ListIcon.tsx';
+import ListItem from '../List/ListItem';
+import ListIcon from '../List/ListIcon';
 import Chip from '../Chip';
 
 it('renders list item with title and description', () => {
@@ -82,27 +84,12 @@ it('renders list item with custom description', () => {
               Design library that has you covered in all major use-cases.
             </Text>
             <View>
-              <Chip icon="file-pdf" onPress={() => {}}>
+              <Chip icon="picture-as-pdf" onPress={() => {}}>
                 DOCS.pdf
               </Chip>
             </View>
           </View>
         )}
-      />
-    )
-    .toJSON();
-
-  expect(tree).toMatchSnapshot();
-});
-
-it('renders with a description with typeof number', () => {
-  const tree = renderer
-    .create(
-      <ListItem
-        title="First Item"
-        description={123}
-        titleStyle={{ fontSize: 20 }}
-        descriptionStyle={{ color: 'red' }}
       />
     )
     .toJSON();

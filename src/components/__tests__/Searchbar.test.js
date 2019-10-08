@@ -1,6 +1,6 @@
 import * as React from 'react';
 import renderer from 'react-test-renderer';
-import Searchbar from '../Searchbar.tsx';
+import Searchbar from '../Searchbar';
 
 it('renders with placeholder', () => {
   const tree = renderer.create(<Searchbar placeholder="Search" />).toJSON();

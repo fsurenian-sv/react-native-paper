@@ -1,6 +1,8 @@
+/* @flow */
+
 import * as React from 'react';
 import renderer from 'react-test-renderer';
-import DataTable from '../DataTable/DataTable.tsx';
+import DataTable from '../DataTable/DataTable';
 
 it('renders data table header', () => {
   const tree = renderer

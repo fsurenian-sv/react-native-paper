@@ -52,9 +52,9 @@ exports[`renders expanded accordion 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "System",
-                "fontWeight": "400",
+                "fontFamily": "Helvetica Neue",
                 "textAlign": "left",
+                "writingDirection": "ltr",
               },
               Array [
                 Object {
@@ -105,7 +105,7 @@ exports[`renders expanded accordion 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -113,7 +113,7 @@ exports[`renders expanded accordion 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
     </View>
@@ -151,8 +151,7 @@ exports[`renders expanded accordion 1`] = `
         style={
           Array [
             Object {
-              "marginVertical": 6,
-              "paddingLeft": 8,
+              "margin": 8,
             },
             Object {
               "flex": 1,
@@ -167,9 +166,9 @@ exports[`renders expanded accordion 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "System",
-                "fontWeight": "400",
+                "fontFamily": "Helvetica Neue",
                 "textAlign": "left",
+                "writingDirection": "ltr",
               },
               Array [
                 Object {
@@ -263,7 +262,7 @@ exports[`renders list accordion with children 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -271,7 +270,7 @@ exports[`renders list accordion with children 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
       <View
@@ -293,9 +292,9 @@ exports[`renders list accordion with children 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "System",
-                "fontWeight": "400",
+                "fontFamily": "Helvetica Neue",
                 "textAlign": "left",
+                "writingDirection": "ltr",
               },
               Array [
                 Object {
@@ -346,7 +345,7 @@ exports[`renders list accordion with children 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -354,7 +353,7 @@ exports[`renders list accordion with children 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
     </View>
@@ -414,9 +413,9 @@ exports[`renders list accordion with custom title and description styles 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "System",
-                "fontWeight": "400",
+                "fontFamily": "Helvetica Neue",
                 "textAlign": "left",
+                "writingDirection": "ltr",
               },
               Array [
                 Object {
@@ -440,9 +439,9 @@ exports[`renders list accordion with custom title and description styles 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "System",
-                "fontWeight": "400",
+                "fontFamily": "Helvetica Neue",
                 "textAlign": "left",
+                "writingDirection": "ltr",
               },
               Array [
                 Object {
@@ -499,7 +498,7 @@ exports[`renders list accordion with custom title and description styles 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -507,7 +506,7 @@ exports[`renders list accordion with custom title and description styles 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
     </View>
@@ -587,7 +586,7 @@ exports[`renders list accordion with left items 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -595,7 +594,7 @@ exports[`renders list accordion with left items 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
       <View
@@ -617,9 +616,9 @@ exports[`renders list accordion with left items 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "System",
-                "fontWeight": "400",
+                "fontFamily": "Helvetica Neue",
                 "textAlign": "left",
+                "writingDirection": "ltr",
               },
               Array [
                 Object {
@@ -670,7 +669,7 @@ exports[`renders list accordion with left items 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -678,7 +677,7 @@ exports[`renders list accordion with left items 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
     </View>
@@ -738,9 +737,9 @@ exports[`renders multiline list accordion 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "System",
-                "fontWeight": "400",
+                "fontFamily": "Helvetica Neue",
                 "textAlign": "left",
+                "writingDirection": "ltr",
               },
               Array [
                 Object {
@@ -762,9 +761,9 @@ exports[`renders multiline list accordion 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "System",
-                "fontWeight": "400",
+                "fontFamily": "Helvetica Neue",
                 "textAlign": "left",
+                "writingDirection": "ltr",
               },
               Array [
                 Object {
@@ -819,7 +818,7 @@ exports[`renders multiline list accordion 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -827,7 +826,7 @@ exports[`renders multiline list accordion 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
     </View>

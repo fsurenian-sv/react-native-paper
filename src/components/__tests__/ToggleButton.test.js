@@ -1,10 +1,14 @@
+/* @flow */
+
 import * as React from 'react';
 import renderer from 'react-test-renderer';
-import ToggleButton from '../ToggleButton/ToggleButton.tsx';
+import ToggleButton from '../ToggleButton/ToggleButton';
 
 it('renders toggle button', () => {
   const tree = renderer
-    .create(<ToggleButton status="checked" onPress={() => {}} icon="heart" />)
+    .create(
+      <ToggleButton status="checked" onPress={() => {}} icon="favorite" />
+    )
     .toJSON();
 
   expect(tree).toMatchSnapshot();
@@ -18,7 +22,7 @@ it('renders disabled toggle button', () => {
         value="toggle"
         status="checked"
         onValueChange={() => {}}
-        icon="heart"
+        icon="favorite"
       />
     )
     .toJSON();
@@ -33,7 +37,7 @@ it('renders unchecked toggle button', () => {
         disabled
         status="unchecked"
         onValueChange={() => {}}
-        icon="heart"
+        icon="favorite"
       />
     )
     .toJSON();

@@ -1,9 +1,11 @@
+/* @flow */
+
 import * as React from 'react';
 import renderer from 'react-test-renderer';
-import ListSection from '../List/ListSection.tsx';
-import ListItem from '../List/ListItem.tsx';
-import ListIcon from '../List/ListIcon.tsx';
-import ListSubheader from '../List/ListSubheader.tsx';
+import ListSection from '../List/ListSection';
+import ListItem from '../List/ListItem';
+import ListIcon from '../List/ListIcon';
+import ListSubheader from '../List/ListSubheader';
 
 it('renders list section without subheader', () => {
   const tree = renderer

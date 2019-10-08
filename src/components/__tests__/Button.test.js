@@ -1,7 +1,9 @@
+/* @flow */
+
 import * as React from 'react';
 import renderer from 'react-test-renderer';
-import Button from '../Button.tsx';
-import { pink500 } from '../../styles/colors.tsx';
+import Button from '../Button';
+import { pink500 } from '../../styles/colors';
 
 it('renders text button by default', () => {
   const tree = renderer.create(<Button>Text Button</Button>).toJSON();
@@ -35,7 +37,7 @@ it('renders contained contained with mode', () => {
 
 it('renders button with icon', () => {
   const tree = renderer
-    .create(<Button icon="camera">Icon Button</Button>)
+    .create(<Button icon="add-a-photo">Icon Button</Button>)
     .toJSON();
 
   expect(tree).toMatchSnapshot();

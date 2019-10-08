@@ -61,17 +61,17 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
       Object {
         "backgroundColor": "#ffffff",
         "bottom": 0,
-        "elevation": 4,
+        "elevation": 8,
         "left": 0,
         "position": null,
         "right": 0,
         "shadowColor": "#000000",
         "shadowOffset": Object {
-          "height": 3,
+          "height": 7,
           "width": 0,
         },
         "shadowOpacity": 0.24,
-        "shadowRadius": 4,
+        "shadowRadius": 8,
         "transform": Array [
           Object {
             "translateY": 0,
@@ -188,7 +188,7 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -196,7 +196,7 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -236,7 +236,7 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -244,7 +244,7 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -269,9 +269,8 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -374,7 +373,7 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -382,7 +381,7 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -422,7 +421,7 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -430,7 +429,7 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -455,9 +454,8 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -560,7 +558,7 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -568,7 +566,7 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -608,7 +606,7 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -616,7 +614,7 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -641,9 +639,8 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -734,17 +731,17 @@ exports[`hides labels in shifting bottom navigation 1`] = `
       Object {
         "backgroundColor": "#ffffff",
         "bottom": 0,
-        "elevation": 4,
+        "elevation": 8,
         "left": 0,
         "position": null,
         "right": 0,
         "shadowColor": "#000000",
         "shadowOffset": Object {
-          "height": 3,
+          "height": 7,
           "width": 0,
         },
         "shadowOpacity": 0.24,
-        "shadowRadius": 4,
+        "shadowRadius": 8,
         "transform": Array [
           Object {
             "translateY": 0,
@@ -881,7 +878,7 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -889,7 +886,7 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -929,7 +926,7 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -937,7 +934,7 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -962,9 +959,8 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -1067,7 +1063,7 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -1075,7 +1071,7 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -1115,7 +1111,7 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -1123,7 +1119,7 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -1148,9 +1144,8 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -1253,7 +1248,7 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -1261,7 +1256,7 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -1301,7 +1296,7 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -1309,7 +1304,7 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -1334,9 +1329,8 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -1427,17 +1421,17 @@ exports[`renders custom icon and label in non-shifting bottom navigation 1`] = `
       Object {
         "backgroundColor": "#ffffff",
         "bottom": 0,
-        "elevation": 4,
+        "elevation": 8,
         "left": 0,
         "position": null,
         "right": 0,
         "shadowColor": "#000000",
         "shadowOffset": Object {
-          "height": 3,
+          "height": 7,
           "width": 0,
         },
         "shadowOpacity": 0.24,
-        "shadowRadius": 4,
+        "shadowRadius": 8,
         "transform": Array [
           Object {
             "translateY": 0,
@@ -1533,7 +1527,7 @@ exports[`renders custom icon and label in non-shifting bottom navigation 1`] = `
                 <icon
                   color="#ffffff"
                 >
-                  magnify
+                  3d-rotation
                 </icon>
               </View>
               <View
@@ -1552,7 +1546,7 @@ exports[`renders custom icon and label in non-shifting bottom navigation 1`] = `
                 <icon
                   color="rgba(255, 255, 255, 0.5)"
                 >
-                  magnify
+                  3d-rotation
                 </icon>
               </View>
               <View
@@ -1577,9 +1571,8 @@ exports[`renders custom icon and label in non-shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -1699,7 +1692,7 @@ exports[`renders custom icon and label in non-shifting bottom navigation 1`] = `
                 <icon
                   color="#ffffff"
                 >
-                  camera
+                  ac-unit
                 </icon>
               </View>
               <View
@@ -1718,7 +1711,7 @@ exports[`renders custom icon and label in non-shifting bottom navigation 1`] = `
                 <icon
                   color="rgba(255, 255, 255, 0.5)"
                 >
-                  camera
+                  ac-unit
                 </icon>
               </View>
               <View
@@ -1743,9 +1736,8 @@ exports[`renders custom icon and label in non-shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -1865,7 +1857,7 @@ exports[`renders custom icon and label in non-shifting bottom navigation 1`] = `
                 <icon
                   color="#ffffff"
                 >
-                  inbox
+                  access-alarm
                 </icon>
               </View>
               <View
@@ -1884,7 +1876,7 @@ exports[`renders custom icon and label in non-shifting bottom navigation 1`] = `
                 <icon
                   color="rgba(255, 255, 255, 0.5)"
                 >
-                  inbox
+                  access-alarm
                 </icon>
               </View>
               <View
@@ -1909,9 +1901,8 @@ exports[`renders custom icon and label in non-shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -2040,17 +2031,17 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
       Object {
         "backgroundColor": "#ffffff",
         "bottom": 0,
-        "elevation": 4,
+        "elevation": 8,
         "left": 0,
         "position": null,
         "right": 0,
         "shadowColor": "#000000",
         "shadowOffset": Object {
-          "height": 3,
+          "height": 7,
           "width": 0,
         },
         "shadowOpacity": 0.24,
-        "shadowRadius": 4,
+        "shadowRadius": 8,
         "transform": Array [
           Object {
             "translateY": 0,
@@ -2166,7 +2157,7 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                 <icon
                   color="#ffffff"
                 >
-                  magnify
+                  3d-rotation
                 </icon>
               </View>
               <View
@@ -2185,7 +2176,7 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                 <icon
                   color="rgba(255, 255, 255, 0.5)"
                 >
-                  magnify
+                  3d-rotation
                 </icon>
               </View>
               <View
@@ -2210,9 +2201,8 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -2316,7 +2306,7 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                 <icon
                   color="#ffffff"
                 >
-                  camera
+                  ac-unit
                 </icon>
               </View>
               <View
@@ -2335,7 +2325,7 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                 <icon
                   color="rgba(255, 255, 255, 0.5)"
                 >
-                  camera
+                  ac-unit
                 </icon>
               </View>
               <View
@@ -2360,9 +2350,8 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -2466,7 +2455,7 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                 <icon
                   color="#ffffff"
                 >
-                  inbox
+                  access-alarm
                 </icon>
               </View>
               <View
@@ -2485,7 +2474,7 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                 <icon
                   color="rgba(255, 255, 255, 0.5)"
                 >
-                  inbox
+                  access-alarm
                 </icon>
               </View>
               <View
@@ -2510,9 +2499,8 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -2616,7 +2604,7 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                 <icon
                   color="#ffffff"
                 >
-                  heart
+                  access-alarms
                 </icon>
               </View>
               <View
@@ -2635,7 +2623,7 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                 <icon
                   color="rgba(255, 255, 255, 0.5)"
                 >
-                  heart
+                  access-alarms
                 </icon>
               </View>
               <View
@@ -2660,9 +2648,8 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -2766,7 +2753,7 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                 <icon
                   color="#ffffff"
                 >
-                  shopping-music
+                  access-time
                 </icon>
               </View>
               <View
@@ -2785,7 +2772,7 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                 <icon
                   color="rgba(255, 255, 255, 0.5)"
                 >
-                  shopping-music
+                  access-time
                 </icon>
               </View>
               <View
@@ -2810,9 +2797,8 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -2925,17 +2911,17 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
       Object {
         "backgroundColor": "#E96A82",
         "bottom": 0,
-        "elevation": 4,
+        "elevation": 8,
         "left": 0,
         "position": null,
         "right": 0,
         "shadowColor": "#000000",
         "shadowOffset": Object {
-          "height": 3,
+          "height": 7,
           "width": 0,
         },
         "shadowOpacity": 0.24,
-        "shadowRadius": 4,
+        "shadowRadius": 8,
         "transform": Array [
           Object {
             "translateY": 0,
@@ -3052,7 +3038,7 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -3060,7 +3046,7 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -3100,7 +3086,7 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -3108,7 +3094,7 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -3133,9 +3119,8 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -3179,20 +3164,16 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#FBF7DB",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#FBF7DB",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -3216,20 +3197,16 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#853D4B",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#853D4B",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -3318,7 +3295,7 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -3326,7 +3303,7 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -3366,7 +3343,7 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -3374,7 +3351,7 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -3399,9 +3376,8 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -3445,20 +3421,16 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#FBF7DB",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#FBF7DB",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -3482,20 +3454,16 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#853D4B",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#853D4B",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -3584,7 +3552,7 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -3592,7 +3560,7 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -3632,7 +3600,7 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -3640,7 +3608,7 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -3665,9 +3633,8 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -3711,20 +3678,16 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#FBF7DB",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#FBF7DB",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -3748,20 +3711,16 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#853D4B",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#853D4B",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -3838,17 +3797,17 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
       Object {
         "backgroundColor": "#E96A82",
         "bottom": 0,
-        "elevation": 4,
+        "elevation": 8,
         "left": 0,
         "position": null,
         "right": 0,
         "shadowColor": "#000000",
         "shadowOffset": Object {
-          "height": 3,
+          "height": 7,
           "width": 0,
         },
         "shadowOpacity": 0.24,
-        "shadowRadius": 4,
+        "shadowRadius": 8,
         "transform": Array [
           Object {
             "translateY": 0,
@@ -3985,7 +3944,7 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -3993,7 +3952,7 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -4033,7 +3992,7 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -4041,7 +4000,7 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -4066,9 +4025,8 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -4112,20 +4070,16 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#FBF7DB",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#FBF7DB",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -4214,7 +4168,7 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -4222,7 +4176,7 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -4262,7 +4216,7 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -4270,7 +4224,7 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -4295,9 +4249,8 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -4341,20 +4294,16 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#FBF7DB",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#FBF7DB",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -4443,7 +4392,7 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -4451,7 +4400,7 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -4491,7 +4440,7 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -4499,7 +4448,7 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -4524,9 +4473,8 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -4570,20 +4518,16 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#FBF7DB",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#FBF7DB",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -4660,17 +4604,17 @@ exports[`renders non-shifting bottom navigation 1`] = `
       Object {
         "backgroundColor": "#ffffff",
         "bottom": 0,
-        "elevation": 4,
+        "elevation": 8,
         "left": 0,
         "position": null,
         "right": 0,
         "shadowColor": "#000000",
         "shadowOffset": Object {
-          "height": 3,
+          "height": 7,
           "width": 0,
         },
         "shadowOpacity": 0.24,
-        "shadowRadius": 4,
+        "shadowRadius": 8,
         "transform": Array [
           Object {
             "translateY": 0,
@@ -4787,7 +4731,7 @@ exports[`renders non-shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -4795,7 +4739,7 @@ exports[`renders non-shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -4835,7 +4779,7 @@ exports[`renders non-shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -4843,7 +4787,7 @@ exports[`renders non-shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -4868,9 +4812,8 @@ exports[`renders non-shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -4914,20 +4857,16 @@ exports[`renders non-shifting bottom navigation 1`] = `
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#ffffff",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#ffffff",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -4951,20 +4890,16 @@ exports[`renders non-shifting bottom navigation 1`] = `
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "rgba(255, 255, 255, 0.5)",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "rgba(255, 255, 255, 0.5)",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -5053,7 +4988,7 @@ exports[`renders non-shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -5061,7 +4996,7 @@ exports[`renders non-shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -5101,7 +5036,7 @@ exports[`renders non-shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -5109,7 +5044,7 @@ exports[`renders non-shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -5134,9 +5069,8 @@ exports[`renders non-shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -5180,20 +5114,16 @@ exports[`renders non-shifting bottom navigation 1`] = `
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#ffffff",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#ffffff",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -5217,20 +5147,16 @@ exports[`renders non-shifting bottom navigation 1`] = `
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "rgba(255, 255, 255, 0.5)",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "rgba(255, 255, 255, 0.5)",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -5319,7 +5245,7 @@ exports[`renders non-shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -5327,7 +5253,7 @@ exports[`renders non-shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -5367,7 +5293,7 @@ exports[`renders non-shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -5375,7 +5301,7 @@ exports[`renders non-shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -5400,9 +5326,8 @@ exports[`renders non-shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -5446,20 +5371,16 @@ exports[`renders non-shifting bottom navigation 1`] = `
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#ffffff",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#ffffff",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -5483,20 +5404,16 @@ exports[`renders non-shifting bottom navigation 1`] = `
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "rgba(255, 255, 255, 0.5)",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "rgba(255, 255, 255, 0.5)",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -5573,17 +5490,17 @@ exports[`renders shifting bottom navigation 1`] = `
       Object {
         "backgroundColor": "#ffffff",
         "bottom": 0,
-        "elevation": 4,
+        "elevation": 8,
         "left": 0,
         "position": null,
         "right": 0,
         "shadowColor": "#000000",
         "shadowOffset": Object {
-          "height": 3,
+          "height": 7,
           "width": 0,
         },
         "shadowOpacity": 0.24,
-        "shadowRadius": 4,
+        "shadowRadius": 8,
         "transform": Array [
           Object {
             "translateY": 0,
@@ -5720,7 +5637,7 @@ exports[`renders shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -5728,7 +5645,7 @@ exports[`renders shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -5768,7 +5685,7 @@ exports[`renders shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -5776,7 +5693,7 @@ exports[`renders shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -5801,9 +5718,8 @@ exports[`renders shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -5847,20 +5763,16 @@ exports[`renders shifting bottom navigation 1`] = `
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#ffffff",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#ffffff",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -5949,7 +5861,7 @@ exports[`renders shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -5957,7 +5869,7 @@ exports[`renders shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -5997,7 +5909,7 @@ exports[`renders shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -6005,7 +5917,7 @@ exports[`renders shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -6030,9 +5942,8 @@ exports[`renders shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -6076,20 +5987,16 @@ exports[`renders shifting bottom navigation 1`] = `
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#ffffff",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#ffffff",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -6178,7 +6085,7 @@ exports[`renders shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -6186,7 +6093,7 @@ exports[`renders shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -6226,7 +6133,7 @@ exports[`renders shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -6234,7 +6141,7 @@ exports[`renders shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -6259,9 +6166,8 @@ exports[`renders shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -6305,20 +6211,16 @@ exports[`renders shifting bottom navigation 1`] = `
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#ffffff",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#ffffff",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -6407,7 +6309,7 @@ exports[`renders shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -6415,7 +6317,7 @@ exports[`renders shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -6455,7 +6357,7 @@ exports[`renders shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -6463,7 +6365,7 @@ exports[`renders shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -6488,9 +6390,8 @@ exports[`renders shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -6534,20 +6435,16 @@ exports[`renders shifting bottom navigation 1`] = `
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#ffffff",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#ffffff",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >
@@ -6636,7 +6533,7 @@ exports[`renders shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -6644,7 +6541,7 @@ exports[`renders shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -6684,7 +6581,7 @@ exports[`renders shifting bottom navigation 1`] = `
                         },
                       ],
                       Object {
-                        "fontFamily": "Material Design Icons",
+                        "fontFamily": "Material Icons",
                         "fontStyle": "normal",
                         "fontWeight": "normal",
                       },
@@ -6692,7 +6589,7 @@ exports[`renders shifting bottom navigation 1`] = `
                     ]
                   }
                 >
-                  
+                  
                 </Text>
               </View>
               <View
@@ -6717,9 +6614,8 @@ exports[`renders shifting bottom navigation 1`] = `
                       "backgroundColor": "#f50057",
                       "borderRadius": 8,
                       "color": "#ffffff",
-                      "fontFamily": "System",
+                      "fontFamily": "Helvetica Neue",
                       "fontSize": 8,
-                      "fontWeight": "400",
                       "height": 16,
                       "lineHeight": 16,
                       "minWidth": 16,
@@ -6763,20 +6659,16 @@ exports[`renders shifting bottom navigation 1`] = `
                     Array [
                       Object {
                         "color": "#000000",
-                        "fontFamily": "System",
-                        "fontWeight": "400",
+                        "fontFamily": "Helvetica Neue",
                         "textAlign": "left",
+                        "writingDirection": "ltr",
                       },
-                      Array [
-                        Object {
-                          "backgroundColor": "transparent",
-                          "fontSize": 12,
-                          "textAlign": "center",
-                        },
-                        Object {
-                          "color": "#ffffff",
-                        },
-                      ],
+                      Object {
+                        "backgroundColor": "transparent",
+                        "color": "#ffffff",
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
                     ]
                   }
                 >

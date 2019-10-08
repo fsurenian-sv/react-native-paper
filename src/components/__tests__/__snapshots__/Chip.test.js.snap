@@ -78,7 +78,7 @@ exports[`renders chip with close button 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -86,7 +86,7 @@ exports[`renders chip with close button 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
       <Text
@@ -95,9 +95,9 @@ exports[`renders chip with close button 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "System",
-              "fontWeight": "400",
+              "fontFamily": "Helvetica Neue",
               "textAlign": "left",
+              "writingDirection": "ltr",
             },
             Array [
               Object {
@@ -108,8 +108,6 @@ exports[`renders chip with close button 1`] = `
               },
               Object {
                 "color": "rgba(0, 0, 0, 0.87)",
-                "fontFamily": "System",
-                "fontWeight": "400",
                 "marginLeft": 4,
                 "marginRight": 4,
               },
@@ -160,7 +158,7 @@ exports[`renders chip with close button 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -168,7 +166,7 @@ exports[`renders chip with close button 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
     </View>
@@ -254,7 +252,7 @@ exports[`renders chip with icon 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -262,7 +260,7 @@ exports[`renders chip with icon 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
       <Text
@@ -271,9 +269,9 @@ exports[`renders chip with icon 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "System",
-              "fontWeight": "400",
+              "fontFamily": "Helvetica Neue",
               "textAlign": "left",
+              "writingDirection": "ltr",
             },
             Array [
               Object {
@@ -284,8 +282,6 @@ exports[`renders chip with icon 1`] = `
               },
               Object {
                 "color": "rgba(0, 0, 0, 0.87)",
-                "fontFamily": "System",
-                "fontWeight": "400",
                 "marginLeft": 4,
                 "marginRight": 8,
               },
@@ -351,9 +347,9 @@ exports[`renders chip with onPress 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "System",
-              "fontWeight": "400",
+              "fontFamily": "Helvetica Neue",
               "textAlign": "left",
+              "writingDirection": "ltr",
             },
             Array [
               Object {
@@ -364,8 +360,6 @@ exports[`renders chip with onPress 1`] = `
               },
               Object {
                 "color": "rgba(0, 0, 0, 0.87)",
-                "fontFamily": "System",
-                "fontWeight": "400",
                 "marginLeft": 8,
                 "marginRight": 8,
               },
@@ -435,9 +429,9 @@ exports[`renders outlined disabled chip 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "System",
-              "fontWeight": "400",
+              "fontFamily": "Helvetica Neue",
               "textAlign": "left",
+              "writingDirection": "ltr",
             },
             Array [
               Object {
@@ -448,8 +442,6 @@ exports[`renders outlined disabled chip 1`] = `
               },
               Object {
                 "color": "rgba(0, 0, 0, 0.26)",
-                "fontFamily": "System",
-                "fontWeight": "400",
                 "marginLeft": 8,
                 "marginRight": 8,
               },
@@ -547,7 +539,7 @@ exports[`renders selected chip 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -555,7 +547,7 @@ exports[`renders selected chip 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
       <Text
@@ -564,9 +556,9 @@ exports[`renders selected chip 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "System",
-              "fontWeight": "400",
+              "fontFamily": "Helvetica Neue",
               "textAlign": "left",
+              "writingDirection": "ltr",
             },
             Array [
               Object {
@@ -577,8 +569,6 @@ exports[`renders selected chip 1`] = `
               },
               Object {
                 "color": "rgba(0, 0, 0, 0.87)",
-                "fontFamily": "System",
-                "fontWeight": "400",
                 "marginLeft": 4,
                 "marginRight": 8,
               },

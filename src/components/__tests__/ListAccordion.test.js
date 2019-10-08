@@ -1,8 +1,10 @@
+/* @flow */
+
 import * as React from 'react';
 import renderer from 'react-test-renderer';
-import ListAccordion from '../List/ListAccordion.tsx';
-import ListItem from '../List/ListItem.tsx';
-import ListIcon from '../List/ListIcon.tsx';
+import ListAccordion from '../List/ListAccordion';
+import ListItem from '../List/ListItem';
+import ListIcon from '../List/ListIcon';
 
 it('renders list accordion with children', () => {
   const tree = renderer

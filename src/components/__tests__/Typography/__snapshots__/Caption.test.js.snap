@@ -6,22 +6,20 @@ exports[`renders caption applying style 1`] = `
     Array [
       Object {
         "color": "#000000",
-        "fontFamily": "System",
-        "fontWeight": "400",
+        "fontFamily": "Helvetica Neue",
         "textAlign": "left",
+        "writingDirection": "ltr",
       },
       Array [
         Object {
           "color": "rgba(0, 0, 0, 0.54)",
-          "fontFamily": "System",
-          "fontWeight": "400",
+          "fontFamily": "Helvetica Neue",
           "textAlign": "left",
           "writingDirection": "ltr",
         },
         Array [
           Object {
             "fontSize": 12,
-            "letterSpacing": 0.4,
             "lineHeight": 20,
             "marginVertical": 2,
           },
@@ -33,7 +31,6 @@ exports[`renders caption applying style 1`] = `
         Array [
           Object {
             "fontSize": 12,
-            "letterSpacing": 0.4,
             "lineHeight": 20,
             "marginVertical": 2,
           },
@@ -56,22 +53,20 @@ exports[`renders caption with children as content 1`] = `
     Array [
       Object {
         "color": "#000000",
-        "fontFamily": "System",
-        "fontWeight": "400",
+        "fontFamily": "Helvetica Neue",
         "textAlign": "left",
+        "writingDirection": "ltr",
       },
       Array [
         Object {
           "color": "rgba(0, 0, 0, 0.54)",
-          "fontFamily": "System",
-          "fontWeight": "400",
+          "fontFamily": "Helvetica Neue",
           "textAlign": "left",
           "writingDirection": "ltr",
         },
         Array [
           Object {
             "fontSize": 12,
-            "letterSpacing": 0.4,
             "lineHeight": 20,
             "marginVertical": 2,
           },
@@ -80,7 +75,6 @@ exports[`renders caption with children as content 1`] = `
         Array [
           Object {
             "fontSize": 12,
-            "letterSpacing": 0.4,
             "lineHeight": 20,
             "marginVertical": 2,
           },

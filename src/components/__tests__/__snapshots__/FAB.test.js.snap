@@ -27,7 +27,6 @@ exports[`renders extended FAB 1`] = `
   <View
     accessibilityLabel="Add items"
     accessibilityRole="button"
-    accessibilityStates={Array []}
     accessible={true}
     isTVSelectable={true}
     onResponderGrant={[Function]}
@@ -118,7 +117,7 @@ exports[`renders extended FAB 1`] = `
                   },
                 ],
                 Object {
-                  "fontFamily": "Material Design Icons",
+                  "fontFamily": "Material Icons",
                   "fontStyle": "normal",
                   "fontWeight": "normal",
                 },
@@ -126,7 +125,7 @@ exports[`renders extended FAB 1`] = `
               ]
             }
           >
-            
+            
           </Text>
         </View>
       </View>
@@ -135,9 +134,9 @@ exports[`renders extended FAB 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "System",
-              "fontWeight": "400",
+              "fontFamily": "Helvetica Neue",
               "textAlign": "left",
+              "writingDirection": "ltr",
             },
             Array [
               Object {
@@ -145,8 +144,7 @@ exports[`renders extended FAB 1`] = `
               },
               Object {
                 "color": "rgba(0, 0, 0, .54)",
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
             ],
           ]
@@ -185,7 +183,6 @@ exports[`renders normal FAB 1`] = `
 >
   <View
     accessibilityRole="button"
-    accessibilityStates={Array []}
     accessible={true}
     isTVSelectable={true}
     onResponderGrant={[Function]}
@@ -276,7 +273,7 @@ exports[`renders normal FAB 1`] = `
                   },
                 ],
                 Object {
-                  "fontFamily": "Material Design Icons",
+                  "fontFamily": "Material Icons",
                   "fontStyle": "normal",
                   "fontWeight": "normal",
                 },
@@ -284,7 +281,7 @@ exports[`renders normal FAB 1`] = `
               ]
             }
           >
-            
+            
           </Text>
         </View>
       </View>
@@ -319,7 +316,6 @@ exports[`renders small FAB 1`] = `
 >
   <View
     accessibilityRole="button"
-    accessibilityStates={Array []}
     accessible={true}
     isTVSelectable={true}
     onResponderGrant={[Function]}
@@ -410,7 +406,7 @@ exports[`renders small FAB 1`] = `
                   },
                 ],
                 Object {
-                  "fontFamily": "Material Design Icons",
+                  "fontFamily": "Material Icons",
                   "fontStyle": "normal",
                   "fontWeight": "normal",
                 },
@@ -418,7 +414,7 @@ exports[`renders small FAB 1`] = `
               ]
             }
           >
-            
+            
           </Text>
         </View>
       </View>

@@ -1,7 +1,9 @@
+/* @flow */
+
 import * as React from 'react';
 import renderer from 'react-test-renderer';
-import Switch from '../Switch.tsx';
-import { pink500 } from '../../styles/colors.tsx';
+import Switch from '../Switch';
+import { pink500 } from '../../styles/colors';
 
 it('renders on switch', () => {
   const tree = renderer.create(<Switch value />).toJSON();

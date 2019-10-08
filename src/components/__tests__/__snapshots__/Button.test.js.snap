@@ -16,7 +16,6 @@ exports[`renders button with color 1`] = `
 >
   <View
     accessibilityRole="button"
-    accessibilityStates={Array []}
     accessible={true}
     isTVSelectable={true}
     onResponderGrant={[Function]}
@@ -54,9 +53,9 @@ exports[`renders button with color 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "System",
-              "fontWeight": "400",
+              "fontFamily": "Helvetica Neue",
               "textAlign": "left",
+              "writingDirection": "ltr",
             },
             Array [
               Object {
@@ -67,23 +66,17 @@ exports[`renders button with color 1`] = `
               },
               undefined,
               Object {
-                "textTransform": "uppercase",
-              },
-              Object {
                 "color": "#e91e63",
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
               Object {
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
-              undefined,
             ],
           ]
         }
       >
-        Custom Button
+        CUSTOM BUTTON
       </Text>
     </View>
   </View>
@@ -106,7 +99,6 @@ exports[`renders button with icon 1`] = `
 >
   <View
     accessibilityRole="button"
-    accessibilityStates={Array []}
     accessible={true}
     isTVSelectable={true}
     onResponderGrant={[Function]}
@@ -171,7 +163,7 @@ exports[`renders button with icon 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -179,7 +171,7 @@ exports[`renders button with icon 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
       <Text
@@ -188,9 +180,9 @@ exports[`renders button with icon 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "System",
-              "fontWeight": "400",
+              "fontFamily": "Helvetica Neue",
               "textAlign": "left",
+              "writingDirection": "ltr",
             },
             Array [
               Object {
@@ -201,23 +193,17 @@ exports[`renders button with icon 1`] = `
               },
               undefined,
               Object {
-                "textTransform": "uppercase",
-              },
-              Object {
                 "color": "#6200ee",
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
               Object {
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
-              undefined,
             ],
           ]
         }
       >
-        Icon Button
+        ICON BUTTON
       </Text>
     </View>
   </View>
@@ -247,7 +233,6 @@ exports[`renders contained contained with mode 1`] = `
 >
   <View
     accessibilityRole="button"
-    accessibilityStates={Array []}
     accessible={true}
     isTVSelectable={true}
     onResponderGrant={[Function]}
@@ -285,9 +270,9 @@ exports[`renders contained contained with mode 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "System",
-              "fontWeight": "400",
+              "fontFamily": "Helvetica Neue",
               "textAlign": "left",
+              "writingDirection": "ltr",
             },
             Array [
               Object {
@@ -298,23 +283,17 @@ exports[`renders contained contained with mode 1`] = `
               },
               undefined,
               Object {
-                "textTransform": "uppercase",
-              },
-              Object {
                 "color": "#ffffff",
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
               Object {
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
-              undefined,
             ],
           ]
         }
       >
-        Contained Button
+        CONTAINED BUTTON
       </Text>
     </View>
   </View>
@@ -379,9 +358,9 @@ exports[`renders disabled button 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "System",
-              "fontWeight": "400",
+              "fontFamily": "Helvetica Neue",
               "textAlign": "left",
+              "writingDirection": "ltr",
             },
             Array [
               Object {
@@ -392,23 +371,17 @@ exports[`renders disabled button 1`] = `
               },
               undefined,
               Object {
-                "textTransform": "uppercase",
-              },
-              Object {
                 "color": "rgba(0, 0, 0, 0.32)",
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
               Object {
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
-              undefined,
             ],
           ]
         }
       >
-        Disabled Button
+        DISABLED BUTTON
       </Text>
     </View>
   </View>
@@ -431,7 +404,6 @@ exports[`renders loading button 1`] = `
 >
   <View
     accessibilityRole="button"
-    accessibilityStates={Array []}
     accessible={true}
     isTVSelectable={true}
     onResponderGrant={[Function]}
@@ -463,198 +435,28 @@ exports[`renders loading button 1`] = `
         ]
       }
     >
-      <View
+      <ActivityIndicator
+        animating={true}
+        color="#6200ee"
+        hidesWhenStopped={true}
+        size="small"
         style={
-          Array [
-            Object {
-              "alignItems": "center",
-              "justifyContent": "center",
-            },
-            Object {
-              "marginLeft": 12,
-              "marginRight": -4,
-              "width": 16,
-            },
-          ]
-        }
-      >
-        <View
-          style={
-            Object {
-              "height": 16,
-              "opacity": 1,
-              "width": 16,
-            }
+          Object {
+            "marginLeft": 12,
+            "marginRight": -4,
+            "width": 16,
           }
-        >
-          <View
-            style={
-              Object {
-                "alignItems": "center",
-                "bottom": 0,
-                "justifyContent": "center",
-                "left": 0,
-                "position": "absolute",
-                "right": 0,
-                "top": 0,
-              }
-            }
-          >
-            <View
-              style={
-                Object {
-                  "height": 16,
-                  "transform": Array [
-                    Object {
-                      "rotate": "45deg",
-                    },
-                  ],
-                  "width": 16,
-                }
-              }
-            >
-              <View
-                collapsable={false}
-                style={
-                  Object {
-                    "height": 8,
-                    "overflow": "hidden",
-                    "width": 16,
-                  }
-                }
-              >
-                <View
-                  style={
-                    Object {
-                      "height": 16,
-                      "transform": Array [
-                        Object {
-                          "translateY": 0,
-                        },
-                        Object {
-                          "rotate": "-165deg",
-                        },
-                      ],
-                      "width": 16,
-                    }
-                  }
-                >
-                  <View
-                    collapsable={false}
-                    style={
-                      Object {
-                        "height": 8,
-                        "overflow": "hidden",
-                        "width": 16,
-                      }
-                    }
-                  >
-                    <View
-                      style={
-                        Object {
-                          "borderColor": "#6200ee",
-                          "borderRadius": 8,
-                          "borderWidth": 1.6,
-                          "height": 16,
-                          "width": 16,
-                        }
-                      }
-                    />
-                  </View>
-                </View>
-              </View>
-            </View>
-          </View>
-          <View
-            style={
-              Object {
-                "alignItems": "center",
-                "bottom": 0,
-                "justifyContent": "center",
-                "left": 0,
-                "position": "absolute",
-                "right": 0,
-                "top": 0,
-              }
-            }
-          >
-            <View
-              style={
-                Object {
-                  "height": 16,
-                  "transform": Array [
-                    Object {
-                      "rotate": "45deg",
-                    },
-                  ],
-                  "width": 16,
-                }
-              }
-            >
-              <View
-                collapsable={false}
-                style={
-                  Object {
-                    "height": 8,
-                    "overflow": "hidden",
-                    "top": 8,
-                    "width": 16,
-                  }
-                }
-              >
-                <View
-                  style={
-                    Object {
-                      "height": 16,
-                      "transform": Array [
-                        Object {
-                          "translateY": -8,
-                        },
-                        Object {
-                          "rotate": "345deg",
-                        },
-                      ],
-                      "width": 16,
-                    }
-                  }
-                >
-                  <View
-                    collapsable={false}
-                    style={
-                      Object {
-                        "height": 8,
-                        "overflow": "hidden",
-                        "width": 16,
-                      }
-                    }
-                  >
-                    <View
-                      style={
-                        Object {
-                          "borderColor": "#6200ee",
-                          "borderRadius": 8,
-                          "borderWidth": 1.6,
-                          "height": 16,
-                          "width": 16,
-                        }
-                      }
-                    />
-                  </View>
-                </View>
-              </View>
-            </View>
-          </View>
-        </View>
-      </View>
+        }
+      />
       <Text
         numberOfLines={1}
         style={
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "System",
-              "fontWeight": "400",
+              "fontFamily": "Helvetica Neue",
               "textAlign": "left",
+              "writingDirection": "ltr",
             },
             Array [
               Object {
@@ -665,23 +467,17 @@ exports[`renders loading button 1`] = `
               },
               undefined,
               Object {
-                "textTransform": "uppercase",
-              },
-              Object {
                 "color": "#6200ee",
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
               Object {
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
-              undefined,
             ],
           ]
         }
       >
-        Loading Button
+        LOADING BUTTON
       </Text>
     </View>
   </View>
@@ -704,7 +500,6 @@ exports[`renders outlined button with mode 1`] = `
 >
   <View
     accessibilityRole="button"
-    accessibilityStates={Array []}
     accessible={true}
     isTVSelectable={true}
     onResponderGrant={[Function]}
@@ -742,9 +537,9 @@ exports[`renders outlined button with mode 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "System",
-              "fontWeight": "400",
+              "fontFamily": "Helvetica Neue",
               "textAlign": "left",
+              "writingDirection": "ltr",
             },
             Array [
               Object {
@@ -755,23 +550,17 @@ exports[`renders outlined button with mode 1`] = `
               },
               undefined,
               Object {
-                "textTransform": "uppercase",
-              },
-              Object {
                 "color": "#6200ee",
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
               Object {
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
-              undefined,
             ],
           ]
         }
       >
-        Outlined Button
+        OUTLINED BUTTON
       </Text>
     </View>
   </View>
@@ -794,7 +583,6 @@ exports[`renders text button by default 1`] = `
 >
   <View
     accessibilityRole="button"
-    accessibilityStates={Array []}
     accessible={true}
     isTVSelectable={true}
     onResponderGrant={[Function]}
@@ -832,9 +620,9 @@ exports[`renders text button by default 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "System",
-              "fontWeight": "400",
+              "fontFamily": "Helvetica Neue",
               "textAlign": "left",
+              "writingDirection": "ltr",
             },
             Array [
               Object {
@@ -845,23 +633,17 @@ exports[`renders text button by default 1`] = `
               },
               undefined,
               Object {
-                "textTransform": "uppercase",
-              },
-              Object {
                 "color": "#6200ee",
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
               Object {
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
-              undefined,
             ],
           ]
         }
       >
-        Text Button
+        TEXT BUTTON
       </Text>
     </View>
   </View>
@@ -884,7 +666,6 @@ exports[`renders text button with mode 1`] = `
 >
   <View
     accessibilityRole="button"
-    accessibilityStates={Array []}
     accessible={true}
     isTVSelectable={true}
     onResponderGrant={[Function]}
@@ -922,9 +703,9 @@ exports[`renders text button with mode 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "System",
-              "fontWeight": "400",
+              "fontFamily": "Helvetica Neue",
               "textAlign": "left",
+              "writingDirection": "ltr",
             },
             Array [
               Object {
@@ -935,23 +716,17 @@ exports[`renders text button with mode 1`] = `
               },
               undefined,
               Object {
-                "textTransform": "uppercase",
-              },
-              Object {
                 "color": "#6200ee",
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
               Object {
-                "fontFamily": "System",
-                "fontWeight": "500",
+                "fontFamily": "HelveticaNeue-Medium",
               },
-              undefined,
             ],
           ]
         }
       >
-        Text Button
+        TEXT BUTTON
       </Text>
     </View>
   </View>

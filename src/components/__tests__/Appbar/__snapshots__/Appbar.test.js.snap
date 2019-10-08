@@ -40,7 +40,6 @@ exports[`Appbar does not pass any additional props to Searchbar 1`] = `
   >
     <View
       accessibilityRole="button"
-      accessibilityStates={Array []}
       accessible={true}
       hitSlop={
         Object {
@@ -65,13 +64,11 @@ exports[`Appbar does not pass any additional props to Searchbar 1`] = `
           Array [
             Object {
               "alignItems": "center",
-              "justifyContent": "center",
-              "margin": 6,
-              "overflow": "hidden",
-            },
-            Object {
               "borderRadius": 18,
               "height": 36,
+              "justifyContent": "center",
+              "margin": 6,
+              "overflow": "visible",
               "width": 36,
             },
             undefined,
@@ -107,7 +104,7 @@ exports[`Appbar does not pass any additional props to Searchbar 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -115,7 +112,7 @@ exports[`Appbar does not pass any additional props to Searchbar 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
     </View>
@@ -126,7 +123,6 @@ exports[`Appbar does not pass any additional props to Searchbar 1`] = `
       keyboardAppearance="light"
       placeholder="Search"
       placeholderTextColor="rgba(0, 0, 0, 0.54)"
-      rejectResponderTermination={true}
       returnKeyType="search"
       selectionColor="#6200ee"
       style={
@@ -141,8 +137,7 @@ exports[`Appbar does not pass any additional props to Searchbar 1`] = `
           },
           Object {
             "color": "#000000",
-            "fontFamily": "System",
-            "fontWeight": "400",
+            "fontFamily": "Helvetica Neue",
           },
           undefined,
         ]
@@ -180,13 +175,11 @@ exports[`Appbar does not pass any additional props to Searchbar 1`] = `
           Array [
             Object {
               "alignItems": "center",
-              "justifyContent": "center",
-              "margin": 6,
-              "overflow": "hidden",
-            },
-            Object {
               "borderRadius": 18,
               "height": 36,
+              "justifyContent": "center",
+              "margin": 6,
+              "overflow": "visible",
               "width": 36,
             },
             Object {
@@ -224,7 +217,7 @@ exports[`Appbar does not pass any additional props to Searchbar 1`] = `
                 },
               ],
               Object {
-                "fontFamily": "Material Design Icons",
+                "fontFamily": "Material Icons",
                 "fontStyle": "normal",
                 "fontWeight": "normal",
               },
@@ -232,7 +225,7 @@ exports[`Appbar does not pass any additional props to Searchbar 1`] = `
             ]
           }
         >
-          
+          
         </Text>
       </View>
     </View>
@@ -263,7 +256,6 @@ exports[`Appbar passes additional props to AppbarBackAction, AppbarContent and A
   <View
     accessibilityLabel="Back"
     accessibilityRole="button"
-    accessibilityStates={Array []}
     accessible={true}
     hitSlop={
       Object {
@@ -288,13 +280,11 @@ exports[`Appbar passes additional props to AppbarBackAction, AppbarContent and A
         Array [
           Object {
             "alignItems": "center",
-            "justifyContent": "center",
-            "margin": 6,
-            "overflow": "hidden",
-          },
-          Object {
             "borderRadius": 18,
             "height": 36,
+            "justifyContent": "center",
+            "margin": 6,
+            "overflow": "visible",
             "width": 36,
           },
           undefined,
@@ -414,15 +404,14 @@ exports[`Appbar passes additional props to AppbarBackAction, AppbarContent and A
         Array [
           Object {
             "color": "#000000",
-            "fontFamily": "System",
-            "fontWeight": "400",
+            "fontFamily": "Helvetica Neue",
             "textAlign": "left",
+            "writingDirection": "ltr",
           },
           Array [
             Object {
               "color": "#ffffff",
-              "fontFamily": "System",
-              "fontWeight": "400",
+              "fontFamily": "Helvetica Neue",
             },
             Object {
               "fontSize": 17,
@@ -437,7 +426,6 @@ exports[`Appbar passes additional props to AppbarBackAction, AppbarContent and A
   </View>
   <View
     accessibilityRole="button"
-    accessibilityStates={Array []}
     accessible={true}
     hitSlop={
       Object {
@@ -462,13 +450,11 @@ exports[`Appbar passes additional props to AppbarBackAction, AppbarContent and A
         Array [
           Object {
             "alignItems": "center",
-            "justifyContent": "center",
-            "margin": 6,
-            "overflow": "hidden",
-          },
-          Object {
             "borderRadius": 18,
             "height": 36,
+            "justifyContent": "center",
+            "margin": 6,
+            "overflow": "visible",
             "width": 36,
           },
           undefined,
@@ -535,7 +521,7 @@ exports[`Appbar passes additional props to AppbarBackAction, AppbarContent and A
                   },
                 ],
                 Object {
-                  "fontFamily": "Material Design Icons",
+                  "fontFamily": "Material Icons",
                   "fontStyle": "normal",
                   "fontWeight": "normal",
                 },
@@ -543,7 +529,7 @@ exports[`Appbar passes additional props to AppbarBackAction, AppbarContent and A
               ]
             }
           >
-            
+            
           </Text>
         </View>
       </View>

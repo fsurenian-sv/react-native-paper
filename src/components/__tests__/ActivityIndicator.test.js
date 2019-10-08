@@ -1,6 +1,8 @@
+/* @flow */
+
 import * as React from 'react';
 import renderer from 'react-test-renderer';
-import ActivityIndicator from '../ActivityIndicator.tsx';
+import ActivityIndicator from '../ActivityIndicator';
 
 jest.useFakeTimers();
 
