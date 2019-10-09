@@ -69,8 +69,6 @@ class TextInputOutlined extends React.Component<ChildTextInputProps, {}> {
       placeholderColor,
       containerStyle;
 
-    console.log('PAPER STYLES', style);
-
     if (disabled) {
       inputTextColor = activeColor = color(colors.text)
         .alpha(0.54)
