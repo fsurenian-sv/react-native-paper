@@ -7,6 +7,8 @@ import {
   TextInput as NativeTextInput,
   StyleSheet,
   I18nManager,
+  Dimensions,
+  PixelRatio,
 } from 'react-native';
 import color from 'color';
 import Text from '../Typography/Text';
@@ -14,12 +16,17 @@ import type { ChildTextInputProps, RenderProps } from './types';
 
 const AnimatedText = Animated.createAnimatedComponent(Text);
 
-const OUTLINE_MINIMIZED_LABEL_Y_OFFSET = -29;
-const MAXIMIZED_LABEL_FONT_SIZE = 16;
-const MINIMIZED_LABEL_FONT_SIZE = 12;
-const LABEL_WIGGLE_X_OFFSET = 4;
-const LABEL_PADDING_HORIZONTAL = 12;
-const RANDOM_VALUE_TO_CENTER_LABEL = 4; // Don't know why 4, but it works
+const scale = Dimensions.get('window').width / 960;
+
+export const normalizePixelDensity = size =>
+  Math.round(PixelRatio.roundToNearestPixel(size * scale)) - 2;
+
+const OUTLINE_MINIMIZED_LABEL_Y_OFFSET = -normalizePixelDensity(29.5);
+const MAXIMIZED_LABEL_FONT_SIZE = normalizePixelDensity(17);
+const MINIMIZED_LABEL_FONT_SIZE = normalizePixelDensity(15);
+const LABEL_WIGGLE_X_OFFSET = normalizePixelDensity(4);
+const LABEL_PADDING_HORIZONTAL = normalizePixelDensity(20);
+const RANDOM_VALUE_TO_CENTER_LABEL = normalizePixelDensity(8); // Don't know why 4, but it works
 
 class TextInputOutlined extends React.Component<ChildTextInputProps, {}> {
   static defaultProps = {
@@ -279,38 +286,38 @@ const styles = StyleSheet.create({
   placeholder: {
     position: 'absolute',
     left: 0,
-    fontSize: 16,
+    fontSize: normalizePixelDensity(17),
     paddingHorizontal: LABEL_PADDING_HORIZONTAL,
   },
   placeholderOutlined: {
-    top: 25,
+    top: normalizePixelDensity(17),
   },
   outline: {
     position: 'absolute',
     left: 0,
     right: 0,
-    top: 6,
+    top: 0,
     bottom: 0,
   },
   outlinedLabelBackground: {
     position: 'absolute',
     top: 0,
-    left: 8,
-    paddingHorizontal: 4,
+    left: normalizePixelDensity(16),
+    paddingHorizontal: normalizePixelDensity(8),
     color: 'transparent',
   },
   input: {
     flexGrow: 1,
-    paddingHorizontal: 12,
-    fontSize: 16,
+    paddingHorizontal: normalizePixelDensity(16),
+    fontSize: normalizePixelDensity(17),
     margin: 0,
-    minHeight: 58,
+    minHeight: normalizePixelDensity(44),
     textAlign: I18nManager.isRTL ? 'right' : 'left',
     zIndex: 1,
   },
   inputOutlined: {
-    paddingTop: 20,
-    paddingBottom: 16,
-    minHeight: 64,
+    paddingTop: normalizePixelDensity(17),
+    paddingBottom: normalizePixelDensity(17),
+    minHeight: normalizePixelDensity(44),
   },
 });
