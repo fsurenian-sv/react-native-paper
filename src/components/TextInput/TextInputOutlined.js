@@ -21,7 +21,7 @@ const scale = Dimensions.get('window').width / 960;
 export const normalizePixelDensity = size =>
   Math.round(PixelRatio.roundToNearestPixel(size * scale)) - 2;
 
-const OUTLINE_MINIMIZED_LABEL_Y_OFFSET = -normalizePixelDensity(30);
+const OUTLINE_MINIMIZED_LABEL_Y_OFFSET = -normalizePixelDensity(29.5);
 const MAXIMIZED_LABEL_FONT_SIZE = normalizePixelDensity(17);
 const MINIMIZED_LABEL_FONT_SIZE = normalizePixelDensity(15);
 const LABEL_WIGGLE_X_OFFSET = normalizePixelDensity(4);
@@ -290,7 +290,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: LABEL_PADDING_HORIZONTAL,
   },
   placeholderOutlined: {
-    top: normalizePixelDensity(16),
+    top: normalizePixelDensity(17),
   },
   outline: {
     position: 'absolute',
