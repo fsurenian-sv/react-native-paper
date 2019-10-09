@@ -286,7 +286,7 @@ const styles = StyleSheet.create({
   placeholder: {
     position: 'absolute',
     left: 0,
-    fontSize: normalizePixelDensity(16),
+    fontSize: normalizePixelDensity(17),
     paddingHorizontal: LABEL_PADDING_HORIZONTAL,
   },
   placeholderOutlined: {
@@ -296,7 +296,7 @@ const styles = StyleSheet.create({
     position: 'absolute',
     left: 0,
     right: 0,
-    top: 6,
+    top: 0,
     bottom: 0,
   },
   outlinedLabelBackground: {
@@ -316,8 +316,8 @@ const styles = StyleSheet.create({
     zIndex: 1,
   },
   inputOutlined: {
-    paddingTop: normalizePixelDensity(16),
-    paddingBottom: normalizePixelDensity(16),
+    paddingTop: normalizePixelDensity(17),
+    paddingBottom: normalizePixelDensity(17),
     minHeight: normalizePixelDensity(44),
   },
 });
