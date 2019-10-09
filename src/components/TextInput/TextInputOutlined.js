@@ -21,12 +21,12 @@ const scale = Dimensions.get('window').width / 960;
 export const normalizePixelDensity = size =>
   Math.round(PixelRatio.roundToNearestPixel(size * scale)) - 2;
 
-const OUTLINE_MINIMIZED_LABEL_Y_OFFSET = -normalizePixelDensity(29);
+const OUTLINE_MINIMIZED_LABEL_Y_OFFSET = -normalizePixelDensity(20);
 const MAXIMIZED_LABEL_FONT_SIZE = normalizePixelDensity(17);
 const MINIMIZED_LABEL_FONT_SIZE = normalizePixelDensity(15);
 const LABEL_WIGGLE_X_OFFSET = normalizePixelDensity(4);
 const LABEL_PADDING_HORIZONTAL = normalizePixelDensity(20);
-const RANDOM_VALUE_TO_CENTER_LABEL = normalizePixelDensity(8); // Don't know why 4, but it works
+const RANDOM_VALUE_TO_CENTER_LABEL = normalizePixelDensity(4); // Don't know why 4, but it works
 
 class TextInputOutlined extends React.Component<ChildTextInputProps, {}> {
   static defaultProps = {
