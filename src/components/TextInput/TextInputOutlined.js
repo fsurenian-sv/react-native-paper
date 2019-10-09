@@ -21,7 +21,7 @@ const scale = Dimensions.get('window').width / 960;
 export const normalizePixelDensity = size =>
   Math.round(PixelRatio.roundToNearestPixel(size * scale)) - 2;
 
-const OUTLINE_MINIMIZED_LABEL_Y_OFFSET = -normalizePixelDensity(20);
+const OUTLINE_MINIMIZED_LABEL_Y_OFFSET = -normalizePixelDensity(24);
 const MAXIMIZED_LABEL_FONT_SIZE = normalizePixelDensity(17);
 const MINIMIZED_LABEL_FONT_SIZE = normalizePixelDensity(15);
 const LABEL_WIGGLE_X_OFFSET = normalizePixelDensity(4);
