@@ -25,7 +25,7 @@ const OUTLINE_MINIMIZED_LABEL_Y_OFFSET = -normalizePixelDensity(29);
 const MAXIMIZED_LABEL_FONT_SIZE = normalizePixelDensity(17);
 const MINIMIZED_LABEL_FONT_SIZE = normalizePixelDensity(15);
 const LABEL_WIGGLE_X_OFFSET = normalizePixelDensity(4);
-const LABEL_PADDING_HORIZONTAL = normalizePixelDensity(12);
+const LABEL_PADDING_HORIZONTAL = normalizePixelDensity(16);
 const RANDOM_VALUE_TO_CENTER_LABEL = normalizePixelDensity(4); // Don't know why 4, but it works
 
 class TextInputOutlined extends React.Component<ChildTextInputProps, {}> {
