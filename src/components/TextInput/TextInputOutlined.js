@@ -303,7 +303,7 @@ const styles = StyleSheet.create({
     position: 'absolute',
     top: 0,
     left: normalizePixelDensity(16),
-    paddingHorizontal: normalizePixelDensity(4),
+    paddingHorizontal: normalizePixelDensity(8),
     color: 'transparent',
   },
   input: {
