@@ -34,7 +34,7 @@ class TextInputOutlined extends React.Component<ChildTextInputProps, {}> {
     error: false,
     multiline: false,
     editable: true,
-    render: (props: RenderProps) => <NativeTextInput {...props} />;
+    render: (props: RenderProps) => <NativeTextInput {...props} />,
   };
 
   render() {
