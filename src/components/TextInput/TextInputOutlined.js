@@ -308,7 +308,7 @@ const styles = StyleSheet.create({
   },
   input: {
     flexGrow: 1,
-    paddingHorizontal: normalizePixelDensity(30),
+    paddingHorizontal: normalizePixelDensity(19),
     fontSize: normalizePixelDensity(17),
     margin: 0,
     minHeight: normalizePixelDensity(44),
