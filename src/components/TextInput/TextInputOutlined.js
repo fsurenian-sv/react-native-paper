@@ -302,7 +302,7 @@ const styles = StyleSheet.create({
   outlinedLabelBackground: {
     position: 'absolute',
     top: 0,
-    left: normalizePixelDensity(16),
+    left: normalizePixelDensity(10),
     paddingHorizontal: normalizePixelDensity(8),
     color: 'transparent',
   },
