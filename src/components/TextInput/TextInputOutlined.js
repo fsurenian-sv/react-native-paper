@@ -152,7 +152,7 @@ class TextInputOutlined extends React.Component<ChildTextInputProps, {}> {
             styles.outline,
             {
               borderRadius: theme.roundness,
-              borderWidth: hasActiveOutline ? 2 : 1,
+              borderWidth: normalizePixelDensity(2),
               borderColor: hasActiveOutline ? activeColor : outlineColor,
             },
           ]}
