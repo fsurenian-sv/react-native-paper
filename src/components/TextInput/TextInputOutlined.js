@@ -78,7 +78,8 @@ class TextInputOutlined extends React.Component<ChildTextInputProps, {}> {
     } else {
       inputTextColor = colors.text;
       activeColor = error ? colors.error : colors.primary;
-      placeholderColor = outlineColor = colors.placeholder;
+      placeholderColor = colors.placeholder;
+      outlineColor = colors.outline;
     }
 
     const labelHalfWidth = parentState.labelLayout.width / 2;
